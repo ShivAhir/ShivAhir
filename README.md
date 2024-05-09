@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **shiv18ahir@gmail.com**
 
-- 📄 Know about my experiences [](https://www.canva.com/design/DAFwE1wJ-v8/7Dmyh_0NXicACrU29iGCzA/view?utm_content=DAFwE1wJ-v8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](Shiv-Ahir-Resume)
+- 📄 Know about my experiences (Shiv-Ahir-Resume)
 
 - ⚡ Fun fact **I am crazy about cricket and badminton**
 
