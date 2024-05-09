@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiv Ahir</h1>
-<h3 align="center">A passionate web developer working as a product verification specialist at [evertz](evertz.com)</h3>
+<h3 align="center">A passionate web developer working as a product verification specialist at Evertz Microsystems</h3>
 
 - 🌱 I’m currently learning **MERN Stack, Django**
 
-- 💬 Ask me about **Javascript, React, Front-End Development and, Cricket**
+- 💬 Ask me about **Javascript, React, Front-End Development, python and, Cricket**
 
 - 📫 How to reach me **shiv18ahir@gmail.com**
 
