@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Django**
 
-- 💬 Ask me about **Javascript, React, Front-End Development, Python and, Cricket**
+- 💬 Ask me about **Javascript, React, Front-End Development, Python and Cricket**
 
 - 📫 How to reach me **shiv18ahir@gmail.com**
 
